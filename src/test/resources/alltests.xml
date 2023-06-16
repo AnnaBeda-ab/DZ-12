@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Use tests automation">
+    <test name="UI all tests">
+        <groups>
+            <run>
+                <include name="alltests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="ManTests"></class>
+            <class name="WomanTests"></class>
+            <class name="PersonCreationTests"></class>
+        </classes>
+    </test>
+</suite>
