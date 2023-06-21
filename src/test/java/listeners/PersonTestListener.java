@@ -15,7 +15,7 @@ public class PersonTestListener implements ITestListener {
     public void onTestStart(ITestResult result) {
         LOG.info("[INFO_AttributeNames] The test with data [%s] was started ", result.getAttributeNames());
         LOG.info(String.format("Test [%s] was started%n",result.getName()));
-        Allure.addAttachment("LogsFromListener","text",String.format("Test [%s] was started%d",result.getName()));
+       // Allure.addAttachment("LogsFromListener","text",String.format("Test [%s] was started%d",result.getName()));
     }
 
     @Override
