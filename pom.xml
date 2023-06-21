@@ -65,9 +65,12 @@
                             <argLine>
                                 -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.9.19/aspectjweaver-1.9.19.jar"
                             </argLine>
-                            <systemPropertyVariables>
-                                <allure.result.directory>target/allure-results</allure.result.directory>
+                             <systemPropertyVariables>
+                                <allure.results.directory>
+                                    target/allure-results
+                                </allure.results.directory>
                             </systemPropertyVariables>
+
                         </configuration>
                         <dependencies>
                             <dependency>
