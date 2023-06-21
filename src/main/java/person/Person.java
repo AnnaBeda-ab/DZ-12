@@ -1,5 +1,7 @@
 package person;
 
+import io.qameta.allure.Step;
+
 public abstract class Person {
    private String firstName;
    private String lastName;
@@ -15,7 +17,7 @@ public abstract class Person {
     public String getFirstName() {
         return firstName;
     }
-
+@Step("Here I check setting {0} as firstName")
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }

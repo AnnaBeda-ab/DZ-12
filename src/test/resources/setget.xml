@@ -1,5 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Use tests automation">
+    <listeners>
+        <listener class-name="listeners.PersonTestListener"/>
+    </listeners>
     <test name="UI setget tests">
         <groups>
             <run>
