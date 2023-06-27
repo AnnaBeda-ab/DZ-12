@@ -13,18 +13,18 @@ public class PersonTestListener implements ITestListener {
 
     @Override
     public void onTestStart(ITestResult result) {
-        LOG.info("[INFO_AttributeNames] The test with data [%s] was started ", result.getAttributeNames());
-        LOG.info(String.format("Test [%s] was started%n",result.getName()));
-       // Allure.addAttachment("LogsFromListener","text",String.format("Test [%s] was started%d",result.getName()));
+        LOG.info(String.format("[INFO_AttributeNames] The test with data [%s] was started ", result.getAttributeNames()));
+        LOG.info(String.format("Test [%s] was started",result.getName()));
+        Allure.addAttachment("LogsFromListener","text",String.format("Test [%s] was started",result.getName()));
     }
 
     @Override
     public void onTestSuccess(ITestResult result) {
-       LOG.debug("[DEBUG_TestName] The test [%s] passed !!!", result.getTestName());
+       LOG.debug(String.format("[DEBUG_TestName] The test [%s] passed !!!", result.getTestName()));
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
-        LOG.error("[ERROR_Name] The test [%s] failed", result.getName());
+        LOG.error(String.format("[ERROR_Name] The test [%s] failed", result.getName()));
     }
 }

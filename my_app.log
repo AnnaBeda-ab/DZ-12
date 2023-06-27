@@ -1,392 +1,573 @@
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testDeregisterPartner] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testRegisterPartner] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testWomanIsRetiredFalse] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testWomanIsRetiredTrue] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
 [ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testManIsRetiredTrue] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testDeregisterPartner] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testDeregisterPartner] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testRegisterPartner] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testRegisterPartner] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testWomanIsRetiredFalse] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testWomanIsRetiredFalse] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testWomanIsRetiredTrue] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testWomanIsRetiredTrue] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testGettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingAge] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingFirstName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
 
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[ERROR_Name] The test [testSettingLastName] failed
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[ERROR_Name] The test [testManIsRetiredFalse] failed
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[ERROR_Name] The test [testManIsRetiredTrue] failed
+[ERROR_Name] The test [testDeregisterPartner] failed
+[ERROR_Name] The test [testRegisterPartner] failed
+[ERROR_Name] The test [testWomanIsRetiredFalse] failed
+[ERROR_Name] The test [testWomanIsRetiredTrue] failed
+[ERROR_Name] The test [testGettingAge] failed
+[ERROR_Name] The test [testGettingAge] failed
+[ERROR_Name] The test [testGettingAge] failed
+[ERROR_Name] The test [testGettingFirstName] failed
+[ERROR_Name] The test [testGettingFirstName] failed
+[ERROR_Name] The test [testGettingFirstName] failed
+[ERROR_Name] The test [testGettingLastName] failed
+[ERROR_Name] The test [testGettingLastName] failed
+[ERROR_Name] The test [testGettingLastName] failed
+[ERROR_Name] The test [testSettingAge] failed
+[ERROR_Name] The test [testSettingAge] failed
+[ERROR_Name] The test [testSettingAge] failed
+[ERROR_Name] The test [testSettingFirstName] failed
+[ERROR_Name] The test [testSettingFirstName] failed
+[ERROR_Name] The test [testSettingFirstName] failed
+[ERROR_Name] The test [testSettingLastName] failed
+[ERROR_Name] The test [testSettingLastName] failed
+[ERROR_Name] The test [testSettingLastName] failed
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testDeregisterPartner] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testRegisterPartner] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testWomanIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testWomanIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[ERROR_Name] The test [%s] failed
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testGettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingAge] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingFirstName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
-[INFO_AttributeNames] The test with data [%s] was started 
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
 Test [testSettingLastName] was started
-
-[DEBUG_TestName] The test [%s] passed !!!
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testManIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testDeregisterPartner] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testRegisterPartner] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testWomanIsRetiredFalse] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testWomanIsRetiredTrue] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testGettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingAge] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingFirstName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
+[INFO_AttributeNames] The test with data [[]] was started 
+Test [testSettingLastName] was started
+[DEBUG_TestName] The test [null] passed !!!
